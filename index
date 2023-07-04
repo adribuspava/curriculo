@@ -1,0 +1,213 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Adriana B Pavanelli</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <header>
+        <section class="nome">
+            <h1>Adriana B Pavanelli</h1>
+        </section>
+
+        <section class="contato">
+            <p class="contato__ela">ela / dela</p>
+            <p class="contato__p">Brasil <img src="img\bandeira-brasil.png" alt="bandeira-brasil"></p>
+            <p class="contato__p">adrianabpavanelli@gmail.com</p>
+            <p class="contato__p">+55 19 9 8176-8266 <img src="img\whatsapp.png" alt="whatsapp"></p>
+            <p class="contato__p">+55 19 2042-2916</p>
+            <p class="contato__p"><a href="www.linkedin.com/in/adrianabpavanelli">Linkedin</a> .</p>
+        </section>
+    </header>
+
+    <main>
+        <section class="resumo">
+            <div>
+                <p>Atuo há mais de seis anos no planejamento, execução e gestão de projetos:</p>
+                <ul>
+                    <li>Garantindo entregas no prazo, dentro do escopo e com foco em resultados;</li>
+                    <li>Gerindo ou colaborando com equipes multidisciplinares para alcançar objetivos comuns;</li>
+                    <li>Identificando e analisando as necessidades dos clientes, usuários e stakeholders;</li>
+                    <li>Monitorando e avaliando o progresso, impacto, riscos e desvios dos projetos</li>
+                </ul>
+                <p>Dessa forma, estou envolvida do kick-off ao relatório de entregas, garantindo a comunicação entre equipes multidisciplinares, executando cronogramas e gerenciando fluxos e demandas de modo que a melhor entrega possa ser executada em todos os estágios do projeto.</p>
+            </div>
+        </section>
+
+        <section class="colunas">
+            
+                <div class="esquerda">
+                
+                    <h2 class="titulo-secao"><span class="titulos-esquerda">Experiência</span></h2>
+                           
+                    <div class="esquerda__conjuntos">
+                        <div>
+                            <img class="logos" src="img\attri.png" alt="attri-logo">
+                        </div>
+                        <div><h2>Attri</h2>
+                            <h3>Analista de Projetos</h3>
+                            <h4><span class="datas">Fev. 2022</span></h4>
+                            <p>Gestão de projetos de tecnologia (sites e apps) e de marketing. Gerenciamento dos projetos internamente: eap, monitoramento de tempo, progresso, desvios, riscos e qualidade; Controle do escopo acordado e propostas de aditivos; Montagem de cronograma; Gestão de equipe multidisciplinar.</p>
+                        </div>
+                    </div>
+                
+                    <div class="esquerda__conjuntos">
+                        <div>
+                            <img class="logos" src="img\macfor.png" alt="macfor-logo">
+                        </div>
+                        <di>
+                            <h2>Macfor</h2>
+                            <h3>Analista de Marketing - Projetos</h3>
+                            <h4><span class="datas">Set. 21 - Jan. 22</span></h4>
+                            <p>Atendimento ao cliente e de seus entregáveis. Gestão e acompanhamento dos processos. Negociação de prazos e alinhamentos com squads, equipes internas, externas e clientes. Acompanhamento e supervisão de entregas. Suporte estratégico nas ações. Reports constantes e semanais para líder de operação.</p>
+                        </di>
+                    </div>
+
+                    <div class="esquerda__conjuntos">
+                        <div>
+                            <img class="logos" src="img\artco.png" alt="artco-logo">
+                        </div>
+                        <div>
+                            <h2>Art.co Estratégia Integrada</h2>
+                            <h3>Analista de Marketing - Planejamento e Projetos</h3>
+                            <h4><span class="datas">Dez. 19 - Ago. 21</span></h4>
+                            <p>Planejamento e gestão de projetos de comunicação: marketing digital, inbound marketing, branding, trade, lançamento de produtos e marcas. Planejamento e controle de demandas, cronogramas, produção e análise de relatórios.</p>
+                        </div>
+                    </div>
+
+                    <div class="esquerda__conjuntos">
+                        <div>
+                            <img class="logos" src="img\omelete.png" alt="omelete-logo">
+                        </div>
+                        <div>
+                            <h2>Omelete Inteligência</h2>
+                            <h3>Analista de Marketing - Planejamento e Projetos</h3>
+                            <h4><span class="datas">Ago. 16 - Nov. 19</span></h4>
+                            <p>Planejamentos estratégicos de projetos de comunicação e pesquisa, branding, posicionamento de marcas, lançamentos de produtos, live marketing, endomarketing, campanhas de incentivo. Gerenciamento de projetos. Atendimento ao cliente.</p>
+                        </div>
+                    </div>
+
+                    <div class="esquerda__conjuntos">
+                        <div>
+                            <img class="logos" src="img\inova.png" alt="inova-logo">
+                        </div>
+                        <div>
+                            <h2>Inova Agência de Inovação da Unicamp</h2>
+                            <h3 cl>Estagiária de Comunicação</h3>
+                            <h4><span class="datas">Set. 15 - Fev. 16</span></h4>
+                            <p>Auxílio no planejamento e produção de projetos; realização de entrevistas e reportagens; cobertura de eventos.</p>
+                        </div>
+                    </div>
+               
+            
+
+                    <h2 class="titulo-secao"><span class="titulos-esquerda">Formação Acadêmica</span></h2>
+
+                    <div class="esquerda__conjuntos">
+                        <div>
+                           <img class="logos" src="img\unicamp.png" alt="unicamp-logo"> 
+                        </div>
+                        <div>
+                            <h2>Unicamp - Universidade Estadual de Campinas</h2>
+                            <h3>Bacharelado em Comunicação Social - Habilitação em Midialogia, 2013 - 2016</h3>
+                        </div>               
+                    </div>
+
+                    <div class="esquerda__conjuntos">
+                        <div>
+                            <img class="logos" src="img\espm.png" alt="espm-logo">
+                        </div>
+                        <di>
+                            <h2>ESPM - Escola Superior de Propaganda e Marketing</h2>
+                            <h3>MBA em Marketing, 2018 - 2019</h3>
+                        </di>
+                    </div>
+
+                    <div class="esquerda__conjuntos">
+                        <div>
+                            <img class="logos" src="img\descomplica.png" alt="descomplica-logo">
+                        </div>
+                        <div>
+                            <h2>Descomplica Pós</h2>
+                            <h3>MBA em Gestão Estratégica de Projetos e Metodologias Ágeis, 2020 - 2021</h3>
+                        </div>                   
+                    </div>
+       
+                </div>
+        
+                <div class="direita">
+                    <div class="direita__skills">
+                        <div>
+                            <h2 class="titulo-secao"><span class="direita__skills__titulo">Skills</span></h2>
+                        </div>
+                        <div>
+                        <p>Gestão de Projetos<br>
+                        Metodologias Ágeis<br>
+                        Scrum<br>
+                        Kanban<br>
+                        Metolodolias Tradicionais<br>
+                        <br>
+                        Design Thinking<br>
+                        UX/UI<br>
+                        <br>
+                        Teste de sistema manual<br>
+                        HTML/CSS<br>
+                        SQL<br>
+                        GIT<br>
+                        <br>
+                        Planejamento de Marketing<br>
+                        Pesquisa de Marketing<br>
+                        <br>
+                        Ferramentas:<br>
+                        MS Project, Asana, Runrun.it, 
+                        Clickup, Notion, Miro, Figma,
+                        Looker Studio, Pacote Office</p>
+                        </div>
+                    </div>
+
+            
+                    <h2 class="titulo-secao"><span class="direita__cursos">Cursos</span></h2>
+
+                    <h5>Analista de Testes de Software</h5>
+                    <p>Ultima School, 2023</p>
+
+                    <h5>Introdução ao Design Thinking e UX/UI</h5>
+                    <p>Ultima School, 2023</p>
+
+                    <h5>Google Project Management</h5>
+                    <p>Google, 2023</p>
+
+                    <h5>Analista de Inteligência de Dados</h5>
+                    <p>Academia de Mercado, 2020</p>
+
+                    <h5>Planejamento Estratégico de Marketing</h5>
+                    <p>Plugcitários, 2018</p>
+            
+
+           
+                    <h2 class="titulo-secao"><span class="direita__idiomas">Idiomas</span></h2>
+
+                    <p>Português :: Nativo<br>
+                    Inglês :: Intermediário</p>
+            
+
+            
+                    <h2 class="titulo-secao"><span class="direita__conquista">Conquista</span></h2>
+                    <h5>Prêmio Caio 2019</h5>
+                    <p>Jacaré de Bronze<br>
+                    Categoria: Evento de Incentivo<br>
+                    Case: Camil Campeões de Vendas<br>
+                    Agência Omelete Inteligência</p>
+            
+                    </div>
+
+        </section>
+        
+    </main>
+
+    <footer></footer>    
+</body>
+</html>
