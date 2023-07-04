@@ -1,0 +1,202 @@
+@import url('https://fonts.googleapis.com/css2?family=Space+Grotesk&display=swap');
+
+* {
+        margin: 0;
+        padding: 0;
+        font-family: 'Space Grotesk', sans-serif;
+}
+
+header {
+        display: flex;
+        justify-content: center;
+        padding: 32px;
+        gap: 29px;
+}
+
+.nome {
+        width: 196px;
+        height: 68px;
+}
+
+.contato {
+        height: 68px;
+}
+
+.contato__ela {
+        color: #848484;
+        padding: 0px;
+}
+
+a {
+        color: #000000;
+}
+
+.resumo {
+        display: flex;
+        justify-content: center;
+        padding: 20px;
+        padding-bottom: 0px;
+        width: 70%;
+        margin: 0 auto;
+}
+
+.logos {
+        width: 28px;
+        height: 28px;
+        border-radius: 5px;
+}
+
+.titulos-esquerda {
+        padding: 5px;
+        background-color: #000000;
+        border-radius: 5px;
+        color: #FFFFFF;
+        font-size: 12px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: normal;
+}
+
+.direita__skills__titulo {
+        padding: 5px;
+        background-color: #FF7262;
+        border-radius: 5px;
+        color: #FFFFFF;
+        font-size: 12px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: normal;
+}
+
+.direita__cursos {
+        padding: 5px;
+        background-color: #A259FF;
+        border-radius: 5px;
+        color: #FFFFFF;
+        font-size: 12px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: normal;
+}
+
+.direita__idiomas {
+        padding: 5px;
+        background-color: #08A669;
+        border-radius: 5px;
+        color: #FFFFFF;
+        font-size: 12px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: normal;
+}
+
+.direita__conquista {
+        padding: 5px;
+        background-color: #111232;
+        border-radius: 5px;
+        color: #FFFFFF;
+        font-size: 12px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: normal;
+}
+
+h1 {
+        font-size: 39px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: 40px; 
+}
+
+h2 {
+        font-size: 14px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: normal;
+}
+
+h2.titulo-secao {
+        font-size: 14px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: normal;
+        padding-top: 15px;
+        padding-bottom: 10px;
+        margin-bottom: 10px;
+        margin-top: 10px;
+}
+
+h3 {
+        font-size: 12px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: normal;
+}
+
+h5 {
+        font-size: 12px;
+        font-weight: 700;
+        text-decoration-line: underline;
+        padding-top: 5px;
+        padding-bottom: 0px;
+}
+
+p {
+        font-size: 12px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 15px;
+        padding-top: 6px;
+        padding-bottom: 8px;
+}
+
+.contato__p {
+        padding: 0px;
+}
+
+ul {
+        font-size: 12px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 15px;
+        list-style-position: inside;
+        margin-left: 6px;
+        padding: 1px;
+}
+
+.datas {
+        padding: 5px;
+        border-radius: 5px;
+        border: 1px #848484;
+        background: #848484;
+        font-size: 9px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: normal;
+        color: #FFFFFF;
+}
+
+.colunas {
+        display: flex;
+        gap: 10 px;
+        padding: 15px;
+}
+
+.esquerda {
+        width: 60%;
+        margin: 20px;
+}
+
+.direita {
+        width: 40%;
+        margin: 20px;
+}
+
+.esquerda__conjuntos {
+        display: flex;
+        align-items: flex-start;
+        gap: 11px;
+        padding: 10px;
+        
+}
+
